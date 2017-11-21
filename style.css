@@ -1,0 +1,14 @@
+.header-pdg{
+    width:100%;
+    background:blue;
+}
+
+.title{
+   display: flex;
+   flex-direction:column;
+   height: 200px;
+   
+}
+.box{
+     margin: auto;
+}
